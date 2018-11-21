@@ -33,9 +33,9 @@ const config: KnexConfig = {
   staging: {
     client: 'postgresql',
     connection: {
-      database: 'apiko-marketplace',
-      user: 'postgres',
-      password: 'password',
+      database: 'd22okbt712gs8g',
+      user: 'qrgpkzemgnnxnf',
+      password: 'b0e2954874162549a1b5aed65f086ac849204ea11a137e5afe2e903eb6569466',
     },
     pool: {
       min: 2,
