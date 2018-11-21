@@ -33,9 +33,9 @@ const config: KnexConfig = {
   staging: {
     client: 'postgresql',
     connection: {
-      database: 'd22okbt712gs8g',
-      user: 'qrgpkzemgnnxnf',
-      password: 'b0e2954874162549a1b5aed65f086ac849204ea11a137e5afe2e903eb6569466',
+      database: 'd6lua7c21nhla5',
+      user: 'pbqpwkthlnedzi',
+      password: '4d1408c46a924b4e119217d6cf93c062dcba07d246f4cbc81bfe92539e5a43e5',
     },
     pool: {
       min: 2,
