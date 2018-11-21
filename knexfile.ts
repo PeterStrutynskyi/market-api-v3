@@ -31,7 +31,7 @@ const config: KnexConfig = {
   },
 
   staging: {
-    client: 'postgresql',
+    client: 'ec2-54-246-117-62.eu-west-1.compute.amazonaws.com',
     connection: {
       database: 'd6lua7c21nhla5',
       user: 'pbqpwkthlnedzi',
